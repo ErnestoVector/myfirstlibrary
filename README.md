@@ -8,7 +8,7 @@ Create points
 Example:
 ```kotlin
 val buenosAiresObeliscoPoint = Point(-34.6037389, -58.3815704)
-val nycStatueOfLibertPoint      = Point(40.6892494, -74.0445004)
+val nycStatueOfLibertPoint = Point(40.6892494, -74.0445004)
 ```
 
 Calculate the distance in between
